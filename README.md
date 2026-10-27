@@ -1,4 +1,6 @@
-##  working with software engineering, machine learning, and educational technology :)
+swe intern @ Praso | cs student @ ufpb
+working with software engineering, machine learning, and educational technology :)
+ 
 <!--
 **sofiaomarques/sofiaomarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 swe intern @ Praso | cs student @ ufpb
