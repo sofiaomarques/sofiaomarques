@@ -1,8 +1,7 @@
-## Hi there 
-Computer Science student at **UFPB** (expected 2029), working with software engineering, machine learning, and educational technology :)
+##  working with software engineering, machine learning, and educational technology :)
 <!--
 **sofiaomarques/sofiaomarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+swe intern @ Praso | cs student @ ufpb
 Here are some ideas to get you started:
 
 -  I’m currently working on ...
