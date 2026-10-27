@@ -1,4 +1,5 @@
 swe intern @ Praso | cs student @ ufpb
+
 working with software engineering, machine learning, and educational technology :)
  
 <!--
